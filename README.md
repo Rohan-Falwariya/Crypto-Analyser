@@ -1,9 +1,9 @@
 
-Crypto Site: Real-time Cryptocurrency Data Platform
+𝗖𝗿𝘆𝗽𝘁𝗼 𝗦𝗶𝘁𝗲: 𝗥𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝗖𝗿𝘆𝗽𝘁𝗼𝗰𝘂𝗿𝗿𝗲𝗻𝗰𝘆 𝗗𝗮𝘁𝗮 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺
 
 Welcome to the Crypto Site project! This is a cutting-edge web application that utilizes APIs to provide real-time cryptocurrency data, catering to a wide range of currencies. Our platform offers dynamic updates, interactive graphs, and live information, enabling users to stay informed and make data-driven decisions in the dynamic world of cryptocurrencies.
 
-Features
+𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
 Real-time Cryptocurrency Data: Access up-to-the-minute information for various cryptocurrencies.
 
@@ -14,7 +14,7 @@ Interactive Graphs: Visualize price trends and historical data with interactive 
 Live Updates: Stay informed with continuous updates on price changes and market movements.
 
 
-Technologies Used
+𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
 
 React.js using VITE: Front-end library for building user interfaces.
 
