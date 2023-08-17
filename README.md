@@ -3,6 +3,7 @@
 
 Welcome to the Crypto Site project! This is a cutting-edge web application that utilizes APIs to provide real-time cryptocurrency data, catering to a wide range of currencies. Our platform offers dynamic updates, interactive graphs, and live information, enabling users to stay informed and make data-driven decisions in the dynamic world of cryptocurrencies.
 
+
 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
 Real-time Cryptocurrency Data: Access up-to-the-minute information for various cryptocurrencies.
@@ -12,6 +13,7 @@ Multi-Currency Support: Explore data for different currencies, enhancing global 
 Interactive Graphs: Visualize price trends and historical data with interactive charts.
 
 Live Updates: Stay informed with continuous updates on price changes and market movements.
+
 
 
 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
